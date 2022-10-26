@@ -33,7 +33,7 @@ A Skilled Cyber Security Engineer who has done bachelor from Manu University Hyd
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/cybersyrufszuf" alt="GitHub badge" />
   </a>
   
-  <a href="https://www.linkedin.com/in/owaiskhan9654/">
+  <a href="https://www.linkedin.com/in/sarfaraz-ahmadm/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cybersyrufszuf/" alt="LinkedIn" />
   </a>
   
