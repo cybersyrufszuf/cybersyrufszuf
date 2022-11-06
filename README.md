@@ -29,7 +29,7 @@ A Skilled Cyber Security Engineer who has done bachelor from Manu University Hyd
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:srfzit@gmail.com" />
   </a>
   
-  <a href="https://github.com/Owaiskhan9654">
+  <a href="https://github.com/cybersyrufszuf/">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/cybersyrufszuf" alt="GitHub badge" />
   </a>
   
@@ -41,10 +41,10 @@ A Skilled Cyber Security Engineer who has done bachelor from Manu University Hyd
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue/" alt="hacker Earth" /> 
   </a>
   
-  <a href="https://www.kaggle.com/owaiskhan9654">
+  <a href="https://www.kaggle.com/srfzit">
  <img src="https://img.shields.io/badge/Kaggle%20Master-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /> 
   </a>
-    <a href="https://owaiskhan9654.github.io/">
+    <a [(https://github.com/cybersyrufszuf/)]
  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
   </a>
   
@@ -56,9 +56,9 @@ A Skilled Cyber Security Engineer who has done bachelor from Manu University Hyd
   
 </p>
 # Analytics ⚙️
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=ocean-dark&showIcons=false)](https://owaiskhan9654.github.io/)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=ocean-dark&showIcons=false)](https://github.com/cybersyrufszuf/)
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhan9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="owaiskhan9654" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhan9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="cybersyrufszuf" /></p>
 </p>
  </p> <h3 align="left">
 
