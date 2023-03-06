@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cybersyrufszuf
 - 👀 I’m interested in Cyber Security research 
 - 🌱 I’m currently learning Web3.0 Pentesting 
-- 💞️ I’m looking to collaborate to researcher to secure organization. 
+- 💞️ I’m looking to collaborate to researcher to secure organization from Cyber-attack. 
 - 📫 How to reach me Ans (shahnazmojib@proton.me) 
 
 <!---
