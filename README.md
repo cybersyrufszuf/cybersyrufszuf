@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cybersyrufszuf
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Malware Analysis 
-- 💞️ I’m looking to collaborate on build malware through python 
+- 👀 I’m interested in Cyber Security research 
+- 🌱 I’m currently learning Web3.0 Pentesting 
+- 💞️ I’m looking to collaborate to researcher to secure organization. 
 - 📫 How to reach me Ans (shahnazmojib@proton.me) 
 
 <!---
