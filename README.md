@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <br>
 A Skilled Cyber Security Engineer who has done bachelor from Manu University Hyderabad⚡⚡ </h3>
  
- - I’m currently working as a CyberSecurity Engineer at Precision infomatic Pvt Ltd
+ - I’m currently working as a CyberSecurity Engineer at KPMG India
  
  - I’m looking to collaborate with other content creators
  
